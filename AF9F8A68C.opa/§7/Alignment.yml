@@ -1,0 +1,23 @@
+segment_sources:
+  PE2D2586F:
+    type: origin_type
+    relation: translation
+    language: sa
+  PDF214891:
+    type: origin_type
+    relation: translation
+    language: bo
+  PA6D7D411:
+    type: origin_type
+    relation: translation
+    language: zh
+  PF8349A73:
+    type: origin_type
+    relation: translation
+    language: zh
+segment_pairs:
+  e9a5653daf044e74b22cd8a8647c78da:
+    PE2D2586F: aca693dfc7e84ed28af8468f9f57cdeb
+    PDF214891: faa65d93452f466c9cad4048d9a5b0c5
+    PA6D7D411: f2042290cf044015bac036c46e589477
+    PF8349A73: d70b8000d8ab43fa949fdf0723d048d1
